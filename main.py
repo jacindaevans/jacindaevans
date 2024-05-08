@@ -41,3 +41,8 @@ thatdict = {
 }
 
 print(thisdict)
+
+def function_name(function_argument_1, function_argument_2):
+    multiplied = function_argument_1 * function_argument_2
+    return multiplied
+function_name(5,10)
